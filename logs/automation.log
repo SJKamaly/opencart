@@ -1,0 +1,147 @@
+
+13:32:17.077 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisterationTest - ****** starting TC_001_AccountRegisterationTest******
+13:32:17.177 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on my account link
+13:32:17.764 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on register link
+13:32:17.766 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisterationTest - providing customer details
+13:32:19.299 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegisterationTest - ****** starting TC_001_AccountRegisterationTest******
+13:32:19.315 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - ****** starting TC_001_AccountRegisterationTest******
+13:32:19.544 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on my account link
+13:32:19.556 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on my account link
+13:32:19.866 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on register link
+13:32:19.868 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegisterationTest - providing customer details
+13:32:19.920 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on register link
+13:32:19.921 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - providing customer details
+13:32:20.707 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on continue button
+13:32:20.733 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisterationTest - test passed
+13:32:20.734 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisterationTest - ***** finished TC_001_AccountRegisterationTest****** 
+13:32:22.662 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on continue button
+13:32:22.674 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegisterationTest - test passed
+13:32:22.674 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegisterationTest - ***** finished TC_001_AccountRegisterationTest****** 
+13:32:22.700 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on continue button
+13:32:22.714 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - test passed
+13:32:22.714 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - ***** finished TC_001_AccountRegisterationTest****** 
+15:53:54.520 [main] INFO  testCases.TC_001_AccountRegisterationTest - ****** starting TC_001_AccountRegisterationTest******
+15:53:54.767 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on my account link
+15:53:55.118 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on register link
+15:53:55.120 [main] INFO  testCases.TC_001_AccountRegisterationTest - providing customer details
+15:53:57.852 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on continue button
+15:53:57.866 [main] INFO  testCases.TC_001_AccountRegisterationTest - test passed
+15:53:57.868 [main] INFO  testCases.TC_001_AccountRegisterationTest - ***** finished TC_001_AccountRegisterationTest****** 
+15:54:37.634 [main] INFO  testCases.TC_001_AccountRegisterationTest - ****** starting TC_001_AccountRegisterationTest******
+15:54:37.890 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on my account link
+15:54:38.180 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on register link
+15:54:38.181 [main] INFO  testCases.TC_001_AccountRegisterationTest - providing customer details
+15:54:40.919 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on continue button
+15:54:40.933 [main] INFO  testCases.TC_001_AccountRegisterationTest - test passed
+15:54:40.934 [main] INFO  testCases.TC_001_AccountRegisterationTest - ***** finished TC_001_AccountRegisterationTest****** 
+16:01:04.143 [main] INFO  testCases.TC_001_AccountRegisterationTest - Launching Firefox Browser ....
+16:01:07.369 [main] INFO  testCases.TC_001_AccountRegisterationTest - ****** starting TC_001_AccountRegisterationTest******
+16:01:07.611 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on my account link
+16:01:07.926 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on register link
+16:01:07.928 [main] INFO  testCases.TC_001_AccountRegisterationTest - providing customer details
+16:01:10.644 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on continue button
+16:01:10.657 [main] INFO  testCases.TC_001_AccountRegisterationTest - test passed
+16:01:10.658 [main] INFO  testCases.TC_001_AccountRegisterationTest - ***** finished TC_001_AccountRegisterationTest****** 
+21:17:51.030 [main] INFO  testCases.TC_001_AccountRegisterationTest - Launching Firefox Browser ....
+21:17:56.058 [main] INFO  testCases.TC_001_AccountRegisterationTest - ****** starting TC_001_AccountRegisterationTest******
+21:17:56.307 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on my account link
+21:17:56.794 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on register link
+21:17:56.797 [main] INFO  testCases.TC_001_AccountRegisterationTest - providing customer details
+21:17:57.423 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on continue button
+21:18:07.447 [main] ERROR testCases.TC_001_AccountRegisterationTest - test failed
+21:53:28.262 [main] INFO  testCases.TC_001_AccountRegisterationTest - Launching Firefox Browser ....
+21:53:31.964 [main] INFO  testCases.TC_001_AccountRegisterationTest - ****** starting TC_001_AccountRegisterationTest******
+21:53:32.216 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on my account link
+21:53:32.494 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on register link
+21:53:32.497 [main] INFO  testCases.TC_001_AccountRegisterationTest - providing customer details
+21:53:35.331 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on continue button
+21:53:35.345 [main] INFO  testCases.TC_001_AccountRegisterationTest - test passed
+21:53:35.346 [main] INFO  testCases.TC_001_AccountRegisterationTest - ***** finished TC_001_AccountRegisterationTest****** 
+21:56:23.352 [main] INFO  testCases.TC_001_AccountRegisterationTest - Launching Firefox Browser ....
+21:56:26.481 [main] INFO  testCases.TC_001_AccountRegisterationTest - ****** starting TC_001_AccountRegisterationTest******
+21:56:26.730 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on my account link
+21:56:27.005 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on register link
+21:56:27.007 [main] INFO  testCases.TC_001_AccountRegisterationTest - providing customer details
+21:56:27.634 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on continue button
+21:56:37.657 [main] ERROR testCases.TC_001_AccountRegisterationTest - test failed
+15:20:53.846 [main] INFO  testCases.TC_001_AccountRegisterationTest - Launching Firefox Browser ....
+15:20:57.614 [main] INFO  testCases.TC_001_AccountRegisterationTest - ****** starting TC_001_AccountRegisterationTest******
+15:20:57.876 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on my account link
+15:20:58.270 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on register link
+15:20:58.272 [main] INFO  testCases.TC_001_AccountRegisterationTest - providing customer details
+15:20:58.907 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on continue button
+15:21:08.937 [main] ERROR testCases.TC_001_AccountRegisterationTest - test failed
+15:21:09.688 [main] INFO  testCases.TC_002_LoginTest - Launching Firefox Browser ....
+15:21:12.271 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest*****
+15:21:32.276 [main] INFO  testCases.TC_001_AccountRegisterationTest - Launching Firefox Browser ....
+15:21:35.084 [main] INFO  testCases.TC_001_AccountRegisterationTest - ****** starting TC_001_AccountRegisterationTest******
+15:21:35.332 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on my account link
+15:21:35.610 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on register link
+15:21:35.612 [main] INFO  testCases.TC_001_AccountRegisterationTest - providing customer details
+15:21:38.476 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on continue button
+15:21:38.490 [main] INFO  testCases.TC_001_AccountRegisterationTest - test passed
+15:21:38.492 [main] INFO  testCases.TC_001_AccountRegisterationTest - ***** finished TC_001_AccountRegisterationTest****** 
+15:21:39.181 [main] INFO  testCases.TC_002_LoginTest - Launching Firefox Browser ....
+15:21:41.811 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest*****
+15:25:08.974 [main] INFO  testCases.TC_001_AccountRegisterationTest - Launching Firefox Browser ....
+15:25:11.870 [main] INFO  testCases.TC_001_AccountRegisterationTest - ****** starting TC_001_AccountRegisterationTest******
+15:25:12.113 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on my account link
+15:25:12.437 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on register link
+15:25:12.439 [main] INFO  testCases.TC_001_AccountRegisterationTest - providing customer details
+15:25:15.203 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on continue button
+15:25:15.216 [main] INFO  testCases.TC_001_AccountRegisterationTest - test passed
+15:25:15.218 [main] INFO  testCases.TC_001_AccountRegisterationTest - ***** finished TC_001_AccountRegisterationTest****** 
+15:25:15.807 [main] INFO  testCases.TC_002_LoginTest - Launching Firefox Browser ....
+15:25:18.164 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest*****
+15:25:19.017 [main] INFO  testCases.TC_002_LoginTest - ***** Finished TC_002_LoginTest*****
+15:27:57.799 [main] INFO  testCases.TC_001_AccountRegisterationTest - Launching Firefox Browser ....
+15:28:01.220 [main] INFO  testCases.TC_001_AccountRegisterationTest - ****** starting TC_001_AccountRegisterationTest******
+15:28:01.468 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on my account link
+15:28:01.768 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on register link
+15:28:01.770 [main] INFO  testCases.TC_001_AccountRegisterationTest - providing customer details
+15:28:04.566 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on continue button
+15:28:04.580 [main] INFO  testCases.TC_001_AccountRegisterationTest - test passed
+15:28:04.581 [main] INFO  testCases.TC_001_AccountRegisterationTest - ***** finished TC_001_AccountRegisterationTest****** 
+15:28:05.242 [main] INFO  testCases.TC_002_LoginTest - Launching Firefox Browser ....
+15:28:07.646 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest*****
+15:28:08.517 [main] INFO  testCases.TC_002_LoginTest - ***** Finished TC_002_LoginTest*****
+09:25:19.665 [main] INFO  testCases.TC_001_AccountRegisterationTest - Launching Firefox Browser ....
+09:25:24.632 [main] INFO  testCases.TC_001_AccountRegisterationTest - ****** starting TC_001_AccountRegisterationTest******
+09:25:24.877 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on my account link
+09:25:25.311 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on register link
+09:25:25.319 [main] INFO  testCases.TC_001_AccountRegisterationTest - providing customer details
+09:25:28.235 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on continue button
+09:25:28.249 [main] INFO  testCases.TC_001_AccountRegisterationTest - test passed
+09:25:28.250 [main] INFO  testCases.TC_001_AccountRegisterationTest - ***** finished TC_001_AccountRegisterationTest****** 
+09:25:28.846 [main] INFO  testCases.TC_002_LoginTest - Launching Firefox Browser ....
+09:25:31.443 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest*****
+09:25:32.455 [main] INFO  testCases.TC_002_LoginTest - ***** Finished TC_002_LoginTest*****
+16:02:46.612 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Launching Firefox Browser ....
+16:05:28.164 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Launching Firefox Browser ....
+16:08:20.219 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Launching Firefox Browser ....
+12:59:21.494 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Launching Firefox Browser ....
+12:59:47.858 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Launching Firefox Browser ....
+13:00:36.102 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Launching Firefox Browser ....
+13:01:31.433 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Launching Firefox Browser ....
+13:03:51.354 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Launching Firefox Browser ....
+13:07:02.932 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Launching Firefox Browser ....
+13:07:06.891 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **** Starting TC_003_LoginDataDrivenTest*****
+13:07:07.655 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **** Starting TC_003_LoginDataDrivenTest*****
+13:07:08.201 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **** Starting TC_003_LoginDataDrivenTest*****
+13:07:08.737 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **** Starting TC_003_LoginDataDrivenTest*****
+13:07:12.040 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **** Starting TC_003_LoginDataDrivenTest*****
+13:07:56.299 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Launching Firefox Browser ....
+13:08:03.494 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **** Starting TC_003_LoginDataDrivenTest*****
+13:08:13.622 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **** Starting TC_003_LoginDataDrivenTest*****
+13:08:23.697 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **** Starting TC_003_LoginDataDrivenTest*****
+13:08:33.777 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **** Starting TC_003_LoginDataDrivenTest*****
+13:08:35.317 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **** Starting TC_003_LoginDataDrivenTest*****
+13:33:03.593 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Launching Firefox Browser ....
+13:33:39.303 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Launching Firefox Browser ....
+13:35:02.856 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Launching Firefox Browser ....
+17:26:37.769 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Launching Firefox Browser ....
+17:26:42.955 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **** Starting TC_003_LoginDataDrivenTest*****
+17:26:53.358 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **** Starting TC_003_LoginDataDrivenTest*****
+17:27:03.426 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **** Starting TC_003_LoginDataDrivenTest*****
+17:27:06.431 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **** Starting TC_003_LoginDataDrivenTest*****
+17:27:06.445 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **** Starting TC_003_LoginDataDrivenTest*****
